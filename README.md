@@ -8,6 +8,8 @@ I am seeking an embedded systems or hardware internship for **June 2027**. I wor
 
 ## 精选项目 · Selected projects
 
+[工具目录与安装指南 · Tool catalog and installation](https://fuxing0910-hue.github.io/zh.html)
+
 | 项目 · Project | 能力与演示 · What to look at |
 | --- | --- |
 | [AgentShare](https://github.com/fuxing0910-hue/agentshare) | 本地审阅、编辑和选择 AI 编程对话，省略工具正文并按规则脱敏。Selective transcript export with Python and offline HTML/JavaScript. [中文文档](https://github.com/fuxing0910-hue/agentshare/blob/main/README.zh-CN.md) · [在线演示](https://fuxing0910-hue.github.io/agentshare/zh.html) |
