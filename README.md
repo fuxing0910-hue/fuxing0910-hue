@@ -12,12 +12,12 @@ I am seeking an embedded systems or hardware internship for **June 2027**. I wor
 
 | 项目 · Project | 能力与演示 · What to look at |
 | --- | --- |
-| [AgentShare](https://github.com/fuxing0910-hue/agentshare) | 本地审阅、编辑和选择 AI 编程对话，省略工具正文并按规则脱敏。Selective transcript export with Python and offline HTML/JavaScript. [中文文档](https://github.com/fuxing0910-hue/agentshare/blob/main/README.zh-CN.md) · [在线演示](https://fuxing0910-hue.github.io/agentshare/zh.html) |
+| [AgentShare](https://github.com/fuxing0910-hue/agentshare) | 浏览器内处理 Claude Code / Codex JSONL：替换敏感项、人工编辑选择、导出 HTML/Markdown。Local transcript review in a browser, with a Python CLI and reusable Skill. [免安装试用](https://fuxing0910-hue.github.io/agentshare/try.html) · [中文文档](https://github.com/fuxing0910-hue/agentshare/blob/main/README.zh-CN.md) |
 | [SQLite Audit Kit](https://github.com/fuxing0910-hue/sqlite-audit-kit) | 只读比较数据库更新前后的结构、统计与指定约束。Read-only SQLite snapshots, exact measurements and regression checks. [中文文档](https://github.com/fuxing0910-hue/sqlite-audit-kit/blob/main/README.zh-CN.md) · [在线演示](https://fuxing0910-hue.github.io/sqlite-audit-kit/zh.html) |
 | [ClipVault](https://github.com/fuxing0910-hue/clipvault) | 本地保存、检索 AI 对话材料的 VS Code 扩展。Local conversation library with search and AI-assisted processing; see the README for data flow. |
 | [IELTS Timer](https://github.com/fuxing0910-hue/ielts-timer) | 雅思口语两分钟练习计时器。An Electron desktop timer for two-minute speaking practice. |
 
-两个开发者工具均有合成数据演示，无需硬件、API Key 或私人数据即可体验。The developer tools include reproducible synthetic examples and regression tests; their READMEs describe supported formats and practical limits.
+两个开发者工具均有合成数据演示；AgentShare 也可以直接打开你选择的本地文件，不上传内容。The developer tools include reproducible synthetic examples and regression tests; their READMEs describe supported formats and practical limits.
 
 ## Tools and current learning
 
